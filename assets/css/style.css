@@ -1,0 +1,36 @@
+  body {
+      	 font-family: 'Sofia';font-size: 22px;
+         background-image: url("assets/images/crystal3.jpg");
+         background-color: black;
+
+      }
+
+      h1 {
+        color: silver;
+        text-align: center;
+        font-family: 'Sofia';font-size: 50px;
+      }
+
+     .instContainer{
+
+      width: 50%;
+      margin: 5% auto;
+     	color: green;
+      text-align: center;
+      background-color: darkgray;
+      border-radius: 5px;
+    
+     }
+
+    .crystal-gun {
+      width: 60px;
+      height: 60px;
+      padding: 5px;
+      border-radius: 5px;
+      margin: 1% auto;
+    }
+
+     
+
+
+  	
